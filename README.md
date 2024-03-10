@@ -45,7 +45,10 @@
 
 1. Clone este repositório ou faça download do projeto completo.
 
-2. Navegue até o diretório do projeto e então, navegue até a pasta `src`: 
+2. Navegue até o diretório do projeto e então, navegue até a pasta `src`:
+
+<br>
+
 > <div style="text-align: center;">
 >    <p align="center">
 >     cd projeto/src
@@ -53,8 +56,12 @@
 > </div>
 
 <br>
+<br>
 
 3. Compile o código-fonte:
+
+<br>
+
 > <div style="text-align: center;">
 >    <p align="center">
 >    javac *.java
@@ -62,8 +69,11 @@
 > </div>
 
 <br>
-
+<br>
 4. Execute o programa:
+
+<br>
+
 > <div style="text-align: center;">
 >    <p align="center">
 >    java HalloweenBairro
