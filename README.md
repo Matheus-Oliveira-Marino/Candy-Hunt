@@ -73,6 +73,7 @@
 
 <br>
 <br>
+
 4. Execute o programa:
 
 <br>
@@ -85,7 +86,8 @@
 
 <br>
 
-5. Insira as descrições das vizinhanças conforme solicitado e pressione Enter.
+5. 
+5. Insira as descrições das vizinhanças conforme indicado e pressione Enter.
 
 6. Observe os resultados apresentados na saída.
 
