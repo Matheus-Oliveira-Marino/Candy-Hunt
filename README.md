@@ -52,12 +52,16 @@
 >    </p>
 > </div>
 
+<br>
+
 3. Compile o código-fonte:
 > <div style="text-align: center;">
 >    <p align="center">
 >    javac *.java
 >    </p>
 > </div>
+
+<br>
 
 4. Execute o programa:
 > <div style="text-align: center;">
@@ -66,6 +70,7 @@
 >    </p>
 > </div>
 
+<br>
 
 5. Insira as descrições das vizinhanças conforme solicitado e pressione Enter.
 
