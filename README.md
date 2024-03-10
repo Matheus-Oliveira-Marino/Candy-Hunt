@@ -48,21 +48,21 @@
 2. Navegue até o diretório do projeto e então, navegue até a pasta `src`: 
 > <div style="text-align: center;">
 >    <p align="center">
->cd projeto/src
+>     cd projeto/src
 >    </p>
 > </div>
 
 3. Compile o código-fonte:
 > <div style="text-align: center;">
 >    <p align="center">
->       javac *.java
+>    javac *.java
 >    </p>
 > </div>
 
 4. Execute o programa:
 > <div style="text-align: center;">
 >    <p align="center">
->       java HalloweenBairro
+>    java HalloweenBairro
 >    </p>
 > </div>
 
