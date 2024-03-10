@@ -86,8 +86,7 @@
 
 <br>
 
-5. 
-5. Insira as descrições das vizinhanças conforme indicado e pressione Enter.
+5. Insira as descrições das vizinhanças conforme indicado no arquivo [Casos de teste](https://github.com/Matheus-Oliveira-Marino/Candy-Hunt/blob/main/Arquivos/Casos%20de%20Teste.txt) e pressione Enter.
 
 6. Observe os resultados apresentados na saída.
 
