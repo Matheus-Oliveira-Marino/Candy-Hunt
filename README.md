@@ -2,7 +2,7 @@
 
 - [ ] O projeto `Candy Hunt` é uma solução em `Java` para calcular o número mínimo de ruas percorridas e a quantidade total de doces obtidos ao pedir doces em um bairro durante o Halloween. Ele utiliza uma representação em forma de `árvore binária` para modelar as ruas e as casas onde os doces estão disponíveis.
 
-## Descrição
+## 📝 Descrição
     
 - [ ] O projeto aborda um cenário em que um morador se muda para um bairro peculiar, onde as ruas formam uma estrutura de árvore binária, com as residências representando as folhas dessa árvore. O objetivo é calcular o número mínimo de ruas que o morador precisa percorrer e a quantidade total de doces que ele pode coletar durante o Halloween, seguindo um plano que começa na raiz da árvore e passa por cada casa.
 
