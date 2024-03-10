@@ -32,12 +32,15 @@
 
 1. Certifique-se de ter o `Java JDK` instalado em seu sistema. Link para [download](https://www.oracle.com/java/technologies/downloads/).
 
+<br>
+
 1.1 Instalação Windows 10: [Link do tutorial](https://www.youtube.com/watch?v=AUL--F5Wdh8).
 
 1.2 Instalação Windows 11: [Link do tutorial](https://www.youtube.com/watch?v=krGadRGdESQ).
 
 1.3 Instalação Linux 22.04 LTS: [Link do tutorial](https://www.youtube.com/watch?v=vVrIDJ--GOA).
 
+<br>
 
 2. IDE para execução, como [VSCode](https://code.visualstudio.com/) ou [IntelliJ](https://www.jetbrains.com/idea/download/?section=windows).
 
